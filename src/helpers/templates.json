@@ -1,0 +1,44 @@
+[
+    {
+        "lang":"roman",
+        "isSystem": true,
+        "type": "Male Design",
+        "kallar": {
+            "type": "select",
+            "options": [
+                "Ban",
+                "Kallar"
+            ]
+        },
+        "daman": {
+            "type": "select",
+            "options": [
+                "Gol",
+                "Chakor"
+            ]
+        },
+        "button": {
+            "type": "select",
+            "options": [
+                "Normal",
+                "Fancy",
+                "Stud"
+            ]
+        },
+        "kaff": {
+            "type": "select",
+            "options": [
+                "Smaal",
+                "Medium",
+                "Big"
+            ]
+        },
+        "shalwar": {
+            "type": "select",
+            "options": [
+                "Normal",
+                "Balochi"
+            ]
+        }
+    }
+]
